@@ -10,5 +10,5 @@
 .chat-app {
   height: 100vh;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
